@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash211097
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL 
+- 🌱 I’m currently learning Python, SQL and Data VIsualization Tools
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 7389959622
 
